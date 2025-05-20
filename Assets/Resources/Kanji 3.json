@@ -1,0 +1,105 @@
+{
+"data":[
+{
+	"id":"1",
+	"soal":"会う",
+	"jawaban":[
+		"au",
+		"ai",
+		"ao",
+		"neru"
+	]
+	
+},
+{
+	"id":"2",
+	"soal":"下",
+	"jawaban":[
+		"shita",
+		"kyou",
+		"nichi",
+		"gatsu"
+	]
+},
+{
+	"id":"3",
+	"soal":"近い",
+	"jawaban":[
+		"chikai",
+		"atsui",
+		"shiroi",
+		"yasui"
+	]
+},
+{
+	"id":"4",
+	"soal":"果物",
+	"jawaban":[
+		"kudamono",
+		"tabemono",
+		"takaramono",
+		"bakemono"
+	]
+},
+{
+	"id":"5",
+	"soal":"左",
+	"jawaban":[
+		"hidari",
+		"migi",
+		"ushiro",
+		"mae"
+	]
+},
+{
+	"id":"6",
+	"soal":"休み",
+	"jawaban":[
+		"yasumi",
+		"nerumi",
+		"asami",
+		"nami"
+	]
+},
+{
+	"id":"7",
+	"soal":"車",
+	"jawaban":[
+		"kuruma",
+		"taku",
+		"hidari",
+		"ushiro"
+	]
+},
+{
+	"id":"8",
+	"soal":"足",
+	"jawaban":[
+		"ashi",
+		"mimi",
+		"momo",
+		"me"
+	]
+},
+{
+	"id":"9",
+	"soal":"北",
+	"jawaban":[
+		"kita",
+		"yaru",
+		"yasu",
+		"natsu"
+	]
+},
+{
+	"id":"10",
+	"soal":"多い",
+	"jawaban":[
+		"ooi",
+		"naka",
+		"ame",
+		"shinu"
+	]
+}
+]
+}

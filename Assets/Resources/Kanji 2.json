@@ -1,0 +1,105 @@
+{
+"data":[
+{
+	"id":"1",
+	"soal":"魚",
+	"jawaban":[
+		"sakana",
+		"hebi",
+		"tori",
+		"neko"
+	]
+	
+},
+{
+	"id":"2",
+	"soal":"今",
+	"jawaban":[
+		"ima",
+		"ashita",
+		"kyou",
+		"gatsu"
+	]
+},
+{
+	"id":"3",
+	"soal":"右",
+	"jawaban":[
+		"migi",
+		"hidari",
+		"ushiro",
+		"mae"
+	]
+},
+{
+	"id":"4",
+	"soal":"金",
+	"jawaban":[
+		"kane",
+		"iruka",
+		"ima",
+		"taka"
+	]
+},
+{
+	"id":"5",
+	"soal":"左",
+	"jawaban":[
+		"hidari",
+		"migi",
+		"ushiro",
+		"mae"
+	]
+},
+{
+	"id":"6",
+	"soal":"雨",
+	"jawaban":[
+		"ame",
+		"furu",
+		"natsu",
+		"yuki"
+	]
+},
+{
+	"id":"7",
+	"soal":"外",
+	"jawaban":[
+		"hazu",
+		"naka",
+		"hidari",
+		"mae"
+	]
+},
+{
+	"id":"8",
+	"soal":"空",
+	"jawaban":[
+		"sora",
+		"kumo",
+		"ame",
+		"fuyu"
+	]
+},
+{
+	"id":"9",
+	"soal":"国",
+	"jawaban":[
+		"kuni",
+		"naka",
+		"tama",
+		"yuki"
+	]
+},
+{
+	"id":"10",
+	"soal":"語",
+	"jawaban":[
+		"kata",
+		"ega",
+		"tame",
+		"ata"
+	]
+}
+]
+}

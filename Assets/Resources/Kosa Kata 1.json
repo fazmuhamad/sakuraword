@@ -1,0 +1,105 @@
+{
+"data":[
+{
+	"id":"1",
+	"soal":"ikan",
+	"jawaban":[
+		"さかな(sakana)",
+		"ねこ(neko)",
+		"いぬ(inu)",
+		"へび(hebi)"
+	]
+	
+},
+{
+	"id":"2",
+	"soal":"Kiri",
+	"jawaban":[
+		"ひだり(hidari)",
+		"みぎ(migi)",
+		"まえ(mae)",
+		"なか(naka)"
+	]
+},
+{
+	"id":"3",
+	"soal":"Langit",
+	"jawaban":[
+		"そら(sora)",
+		"きら(kira)",
+		"ゆら(yura)",
+		"たから(takara)"
+	]
+},
+{
+	"id":"4",
+	"soal":"Kanan",
+	"jawaban":[
+		"みぎ(migi)",
+		"ゆき(ｙuki)",
+		"とき(toki)",
+		"すぎ（sugi)"
+	]
+},
+{
+	"id":"5",
+	"soal":"Belakang",
+	"jawaban":[
+		"うしろ(ushiro)",
+		"まえ(mae)",
+		"なか(naka)",
+		"ほと(hito)"
+	]
+},
+{
+	"id":"6",
+	"soal":"Besar",
+	"jawaban":[
+		"おおきい(ookii)",
+		"おなか(onaka)",
+		"くらい(kirai)",
+		"たかい(takai)"
+	]
+},
+{
+	"id":"7",
+	"soal":"Baru",
+	"jawaban":[
+		"あたらしい(atarashii)",
+		"まずかしい(mazukashii)",
+		"はずかしい(hazukashii)",
+		"くやしい(kuyashii)"
+	]
+},
+{
+	"id":"8",
+	"soal":"Kecil",
+	"jawaban":[
+		"ちさい(chisai)",
+		"たかい(takai)",
+		"やすい(yasui)",
+		"くろい(kuroi)"
+	]
+},
+{
+	"id":"9",
+	"soal":"Istirahat",
+	"jawaban":[
+		"やすみ(yasumi)",
+		"ひだり(hidari)",
+		"へび(hebi)",
+		"みぎ(sugi)"
+	]
+},
+{
+	"id":"10",
+	"soal":"Murah",
+	"jawaban":[
+		"やすい(yasui)",
+		"あつい(atsui)",
+		"たかい(takai)",
+		"しろい(shiroi)"
+	]
+}
+]
+}

@@ -1,0 +1,105 @@
+{
+"data":[
+{
+	"id":"1",
+	"soal":"安",
+	"jawaban":[
+		"yasu",
+		"sora",
+		"yama",
+		"haru"
+	]
+	
+},
+{
+	"id":"2",
+	"soal":"花",
+	"jawaban":[
+		"hana",
+		"mizu",
+		"yami",
+		"yuki"
+	]
+},
+{
+	"id":"3",
+	"soal":"九",
+	"jawaban":[
+		"kokono",
+		"mitsu",
+		"yatsu",
+		"itsu"
+	]
+},
+{
+	"id":"4",
+	"soal":"古",
+	"jawaban":[
+		"furu",
+		"yowa",
+		"kako",
+		"uzu"
+	]
+},
+{
+	"id":"5",
+	"soal":"高",
+	"jawaban":[
+		"taka",
+		"uchi",
+		"miro",
+		"yasu"
+	]
+},
+{
+	"id":"6",
+	"soal":"一",
+	"jawaban":[
+		"hito",
+		"futa",
+		"gatsu",
+		"yoru"
+	]
+},
+{
+	"id":"7",
+	"soal":"五",
+	"jawaban":[
+		"itsu",
+		"yotsu",
+		"nanatsu",
+		"mitsu"
+	]
+},
+{
+	"id":"8",
+	"soal":"国",
+	"jawaban":[
+		"kuni",
+		"naka",
+		"tama",
+		"yuki"
+	]
+},
+{
+	"id":"9",
+	"soal":"国",
+	"jawaban":[
+		"kuni",
+		"naka",
+		"tama",
+		"yuki"
+	]
+},
+{
+	"id":"10",
+	"soal":"何",
+	"jawaban":[
+		"nani",
+		"naru",
+		"nara",
+		"nori"
+	]
+}
+]
+}

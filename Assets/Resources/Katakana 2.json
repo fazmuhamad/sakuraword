@@ -1,0 +1,104 @@
+{
+"data":[
+{
+	"id":"1",
+	"soal":"タ",
+	"jawaban":[
+		"ta",
+		"he",
+		"ri",
+		"ko"
+	]	
+},
+{
+	"id":"2",
+	"soal":"マ",
+	"jawaban":[
+		"ma",
+		"a",
+		"u",
+		"ga"
+	]
+},
+{
+	"id":"3",
+	"soal":"チ",
+	"jawaban":[
+		"chi",
+		"hi",
+		"ro",
+		"e"
+	]
+},
+{
+	"id":"4",
+	"soal":"ト",
+	"jawaban":[
+		"to",
+		"ru",
+		"i",
+		"ta"
+	]
+},
+{
+	"id":"5",
+	"soal":"リ",
+	"jawaban":[
+		"ri",
+		"ki",
+		"ra",
+		"o"
+	]
+},
+{
+	"id":"6",
+	"soal":"メ",
+	"jawaban":[
+		"me",
+		"ku",
+		"na",
+		"yo"
+	]
+},
+{
+	"id":"7",
+	"soal":"カ",
+	"jawaban":[
+		"ka",
+		"na",
+		"ri",
+		"mo"
+	]
+},
+{
+	"id":"8",
+	"soal":"ク",
+	"jawaban":[
+		"ku",
+		"mo",
+		"me",
+		"yu"
+	]
+},
+{
+	"id":"9",
+	"soal":"ス",
+	"jawaban":[
+		"su",
+		"ra",
+		"ma",
+		"ke"
+	]
+},
+{
+	"id":"10",
+	"soal":"モ",
+	"jawaban":[
+		"mo",
+		"ga",
+		"ta",
+		"te"
+	]
+}
+]
+}
